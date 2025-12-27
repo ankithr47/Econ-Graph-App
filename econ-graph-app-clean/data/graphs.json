@@ -7,7 +7,7 @@
     
     "practice": {
       "question": "Draw the standard supply and demand curve showing equilibrium",
-      "answerImage": "/graphs/supply-demand.png",
+      "answerImage": "/graphs/Supply Demand curve.png",
       "explanation": "The demand curve (D) slopes downward...",
       "keyElements": [
         {
@@ -19,7 +19,7 @@
     
     
     "study": {
-      "baseImage": "/graphs/supply-demand-base.png",  
+      "baseImage": "/graphs/Supply Demand curve.png",  
       "steps": [
         {
           "step": 1,
