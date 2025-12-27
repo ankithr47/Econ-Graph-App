@@ -1,0 +1,56 @@
+
+[
+  {
+    "id": 1,
+    "title": "Supply and Demand",
+    
+    
+    "practice": {
+      "question": "Draw the standard supply and demand curve showing equilibrium",
+      "answerImage": "/graphs/supply-demand.png",
+      "explanation": "The demand curve (D) slopes downward...",
+      "keyElements": [
+        {
+          "element": "Demand Curve (D)",
+          "description": "Downward sloping curve..."
+        }
+      ]
+    },
+    
+    
+    "study": {
+      "baseImage": "/graphs/supply-demand-base.png",  
+      "steps": [
+        {
+          "step": 1,
+          "action": "draw",
+          "type": "line",
+          "path": "M 100,100 L 300,400",  
+          "strokeColor": "#2563eb",
+          "strokeWidth": 2,
+          "label": "Demand Curve (D)",
+          "explanation": "The demand curve shows the relationship between price and quantity demanded. It slopes downward because as price decreases, consumers are willing to buy more."
+        },
+        {
+          "step": 2,
+          "action": "draw",
+          "type": "line",
+          "path": "M 100,400 L 300,100",
+          "strokeColor": "#dc2626",
+          "strokeWidth": 2,
+          "label": "Supply Curve (S)",
+          "explanation": "The supply curve slopes upward because producers are willing to supply more at higher prices."
+        },
+        {
+          "step": 3,
+          "action": "highlight",
+          "type": "point",
+          "x": 200,
+          "y": 250,
+          "label": "Equilibrium (E)",
+          "explanation": "This is the equilibrium point where supply equals demand. The market-clearing price is P* and quantity is Q*."
+        }
+      ]
+    }
+  }
+]
